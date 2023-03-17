@@ -31,7 +31,7 @@ public class DynamicObjectOneButton : EditorWindow
         EditorWindow ew = EditorWindow.GetWindow(typeof(DynamicObjectOneButton));
 
         //GUI Title
-        GUILayout.Label("Cognitive3D Dynamic Object Helper", EditorStyles.boldLabel);
+        GUILayout.Label("Cognitive3D Dynamic Object Helper - Aldric is the best", EditorStyles.boldLabel);
 
         //Quick description on how the tool works
         GUILayout.Label("- First Select the Objects wanted to be Cognified", EditorStyles.label);
