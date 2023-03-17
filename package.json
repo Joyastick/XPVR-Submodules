@@ -1,0 +1,13 @@
+{
+    "name": "com.joyastick.Cog3DOneButton",
+    "version": "0.0.1-preview.1",
+    "displayName": "Cognitive3D XPVR",
+    "description": "This is a Package that is XPVR implementation of Cognitive3D",
+    "unty": "2021.3",
+    "dependencies": {
+        "com.cognitive3d.c3d-sdk": "1.0.8"
+    },
+    "author": {
+        "name": "Aldric Joya XPVR"
+    }
+}

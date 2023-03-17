@@ -1,0 +1,16 @@
+{
+    "name": "XPVR.Cognitive3DImplementation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:956b6f76d123b8e4bb708cfcbffee10c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
