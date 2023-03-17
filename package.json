@@ -5,7 +5,7 @@
     "description": "This is a Package that is XPVR implementation of Cognitive3D",
     "unty": "2021.3",
     "dependencies": {
-        "com.cognitive3d.c3d-sdk": "1.0.8"
+        "cognitive3d.c3d-sdk": "1.0.8"
     },
     "author": {
         "name": "Aldric Joya XPVR"
