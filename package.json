@@ -1,8 +1,8 @@
 {
     "name": "com.joyastick.cog3donebutton",
-    "version": "0.0.1-preview.1",
-    "displayName": "Cognitive3D XPVR",
-    "description": "This is a Package that is XPVR implementation of Cognitive3D",
+    "version": "0.0.2-preview.1",
+    "displayName": "XPVR - Cog3D Dynamic Object One Button",
+    "description": "This is a Package that is XPVR implementation of a one button solution for Cognitive3D Dynamic Objects",
     "unty": "2021.3",
     "author": {
         "name": "Aldric Joya XPVR"
