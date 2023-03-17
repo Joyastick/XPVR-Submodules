@@ -2,8 +2,7 @@
     "name": "XPVR.Cognitive3DImplementation",
     "rootNamespace": "",
     "references": [
-        "GUID:956b6f76d123b8e4bb708cfcbffee10c",
-        "GUID:b0a0578339433e34aa53a2ba30972689"
+        "GUID:956b6f76d123b8e4bb708cfcbffee10c"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
